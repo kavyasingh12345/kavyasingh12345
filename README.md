@@ -10,10 +10,10 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently building: **Vitsro (Movie Streaming Website)**   
+- 🔭 I’m currently building: **Vistro (Movie Streaming Website)**   
 - 🌱 Learning: **System Design, Core CS Subjects, Competitive Programming**
 - 💬 Ask me about: **Web Dev**, **Node.js**, **React**, or **DSA**
-- 🧠 Passionate about: **Tech for Impact**, **Internship Prep**, and **Hackathons**
+- 🧠 Passionate about: **Tech for Impact**, **Internship prep**, and **Hackathons**
 - 📫 Reach me at: `kavyasingh19052005@gmail.com`
 
 ---
@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 ```txt
-Frontend      : HTML, CSS, JavaScript, React, Vite, Tailwind, Bootstrap  
-Backend       : Node.js, Express, REST APIs, Firebase Auth  
-Database      : MongoDB, PostgreSQL, Firestore  
-Dev Tools     : Git, GitHub, Postman, Render, Netlify  
+Frontend      : HTML, CSS, JavaScript, React, Vite, Tailwind, Bootstrap
+Backend       : Node.js, Express, REST APIs, Firebase Auth
+Database      : MongoDB, PostgreSQL, Firestore
+Dev Tools     : Git, GitHub, Postman, Render, Netlify
