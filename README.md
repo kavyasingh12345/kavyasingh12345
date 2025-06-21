@@ -24,3 +24,9 @@ Frontend      : HTML, CSS, JavaScript, React, Vite, Tailwind, Bootstrap
 Backend       : Node.js, Express, REST APIs, Firebase Auth
 Database      : MongoDB, PostgreSQL, Firestore
 Dev Tools     : Git, GitHub, Postman, Render, Netlify
+
+
+<p align="center">
+  <img src="https://github.com/kavyasingh12345/kavyasingh12345/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+
